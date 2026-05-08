@@ -2,15 +2,13 @@
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items:center;
-  height: 293px;
-  width: 1100px;
+  padding: 92px 24px 92px 24px;
 }
-
-.logo-black{
-  height: 148px;
-  width: 105px;
+.header__menu {
+  display: flex;
+  justify-self: center;
 }
-.header menu{
-    display: flex;
-  flex-direction: row;
+.header__logo-image {
+  width: 124.05px;
+  height: 94.84px;
 }
